@@ -1,0 +1,13 @@
+header {
+    background-color: #c0e6e6;
+    width: 100%;
+    text-align: center;
+    padding: 20px 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+header h1 {
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+    
+}
